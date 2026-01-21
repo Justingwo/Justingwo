@@ -1,6 +1,6 @@
 <!-- HEADER: Typing Animation & Greeting -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+YourName;SEO+Specialist+%26+Blogger;Passionate+about+Global+Content;Building+Multilingual+Websites" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+Justin+Kwok;SEO+Specialist+%26+Blogger;Passionate+about+Global+Content;Building+Multilingual+Websites" alt="Typing SVG" />
 
   <h1>👋 Welcome to my Digital Space</h1>
 
