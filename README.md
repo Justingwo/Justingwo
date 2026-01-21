@@ -29,7 +29,7 @@
 
 <hr />
 
-### 📖 About Me
+<h3>📖 About Me</h3>
 
 <table>
   <tr>
@@ -48,7 +48,7 @@
   </tr>
 </table>
 
-### 🛠 Tech Stack & Tools
+<h3>🛠 Tech Stack & Tools</h3>
 
 <div align="center">
   <!-- CMS & Platforms -->
@@ -72,7 +72,7 @@
 
 <br />
 
-### 📊 GitHub Statistics
+<h3>📊 GitHub Statistics</h3>
 
 <div align="center">
   <table border="0">
@@ -88,7 +88,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Justingwo&theme=tokyonight&hide_border=true" alt="Streak" />
+  <img src="https://streak-stats.demolab.com?user=Justingwo&theme=tokyonight&hide_border=true" alt="Streak" />
 </div>
 
 <!-- BOTTOM WAVE -->
