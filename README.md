@@ -1,7 +1,5 @@
 <!-- HEADER: Typing Animation & Greeting -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=gradient&height=220&section=header&text=Justin%20Kwok&fontSize=70&animation=fadeIn&fontAlignY=35&desc=SEO%20Specialist%20%26%20Vibe%20Coder&descSize=20&descAlignY=60&fontColor=ffffff" width="100%" />
-  
   <br />
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Building+Multilingual+Websites;Optimizing+Global+Content;Exploring+Vibe+Coding" alt="Typing SVG" />
 
@@ -90,9 +88,6 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Justingwo&theme=tokyonight&hide_border=true" alt="Streak" />
 </div>
-
-<!-- BOTTOM WAVE -->
-<img src="https://capsule-render.vercel.app/render?type=waving&color=gradient&height=100&section=footer" width="100%" />
 
 <hr />
 
