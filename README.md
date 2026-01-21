@@ -1,8 +1,9 @@
 <!-- HEADER: Typing Animation & Greeting -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+Justin+Kwok;SEO+Specialist+%26+Blogger;Passionate+about+Global+Content;Building+Multilingual+Websites" alt="Typing SVG" />
-
-  <h1>👋 Welcome to my Digital Space</h1>
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=gradient&height=220&section=header&text=Justin%20Kwok&fontSize=70&animation=fadeIn&fontAlignY=35&desc=SEO%20Specialist%20%26%20Vibe%20Coder&descSize=20&descAlignY=60&fontColor=ffffff" width="100%" />
+  
+  <br />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Building+Multilingual+Websites;Optimizing+Global+Content;Exploring+Vibe+Coding" alt="Typing SVG" />
 
   <!-- SOCIAL BADGES -->
   <p>
@@ -10,12 +11,20 @@
       <img src="https://img.shields.io/badge/My_Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white" />
     </a>
     <a href="https://x.com/lessammore">
-      <img src="https://img.shields.io/badge/twitter-D14836?style=for-the-badge&logo=twitter&logoColor=white" />
+      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
     </a>
     <a href="https://linkedin.com/in/your-id">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
+    <a href="https://www.buymeacoffee.com/justinkwok">
+      <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
+    </a>
+    <br />
+    <img src="https://komarev.com/ghpvc/?username=Justingwo&label=Profile%20Views&color=blue&style=flat-square" alt="Profile Views" />
   </p>
+  
+  <!-- TROPHIES -->
+  <img src="https://github-profile-trophy.vercel.app/?username=Justingwo&theme=tokyonight&no-frame=true&column=7&margin-w=15&margin-h=15" />
 </div>
 
 <hr />
@@ -41,7 +50,7 @@
 
 ### 🛠 Tech Stack & Tools
 
-<div align="left">
+<div align="center">
   <!-- CMS & Platforms -->
   <b>Platforms:</b> 
   <img src="https://img.shields.io/badge/Blogger-FF5722?style=flat-square&logo=blogger&logoColor=white" />
@@ -69,18 +78,21 @@
   <table border="0">
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=Justingwo&show_icons=true&theme=tokyonight&hide_border=true" alt="Stats" />
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Justingwo&layout=compact&theme=tokyonight&hide_border=true" alt="Languages" />
       </td>
     </tr>
   </table>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" alt="Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Justingwo&theme=tokyonight&hide_border=true" alt="Streak" />
 </div>
+
+<!-- BOTTOM WAVE -->
+<img src="https://capsule-render.vercel.app/render?type=waving&color=gradient&height=100&section=footer" width="100%" />
 
 <hr />
 
