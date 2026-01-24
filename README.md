@@ -1,6 +1,6 @@
 <!-- HEADER: Typing Animation & Greeting -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+Justin+Kwok;SEO+Specialist+%26+Blogger;Passionate+about+Global+Content;Building+Multilingual+Websites" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+Justin+Kwok;Love+cat+%26+Blogger;Exploring+the+possibilities+of+Blogger;meow!+Flow+is+being+triggered" alt="Typing SVG" />
 
   <h1>👋 Welcome to my Digital Space</h1>
 
@@ -12,7 +12,7 @@
     <a href="https://x.com/lessammore">
       <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" />
     </a>
-    <a href="https://linkedin.com/in/your-id">
+    <a href="https://bysk.app/profile/mengyaoguo.bsky.social">
       <img src="https://img.shields.io/badge/Bluesky-1185FE?style=for-the-badge&logo=Bluesky&logoColor=white" />
     </a>
     <a href="https://www.buymeacoffee.com/justinkwok">
@@ -32,10 +32,10 @@
   <tr>
     <td width="60%" valign="top">
       <ul>
-        <li>✍️ <b>Content Strategist</b>: Focused on SEO, international markets, and English/Japanese content.</li>
-        <li>🔭 <b>Currently Working On</b>: Optimizing my global blog for better search engine visibility.</li>
-        <li>🌱 <b>Learning</b>: Advanced WordPress customization and technical SEO audits.</li>
-        <li>💬 <b>Ask me about</b>: Blogger, SEO, data privacy (GDPR), and cross-border digital marketing.</li>
+        <li>✍️ <b>Content Strategist</b>: Focusing on in-depth customization of the Blogger theme, plus creative interactive widget design.</li>
+        <li>🔭 <b>Currently Working On</b>: I'm optimizing my Blogger to make it my one-stop multimedia interactive personal portal.</li>
+        <li>🌱 <b>Learning</b>: CSS styling and canvas/SVG drawing techniques will make interactive components look more realistic.</li>
+        <li>💬 <b>Ask me about</b>: Blogger, I'm a coding beginner and am gaining experience.</li>
         <li>⚡ <b>Fun Fact</b>: I believe a good website is 50% content and 50% site speed!</li>
       </ul>
     </td>
