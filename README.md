@@ -10,10 +10,10 @@
       <img src="https://img.shields.io/badge/My_Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white" />
     </a>
     <a href="https://x.com/lessammore">
-      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+      <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" />
     </a>
     <a href="https://linkedin.com/in/your-id">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+      <img src="https://img.shields.io/badge/Bluesky-1185FE?style=for-the-badge&logo=Bluesky&logoColor=white" />
     </a>
     <a href="https://www.buymeacoffee.com/justinkwok">
       <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
@@ -22,9 +22,7 @@
     <img src="https://komarev.com/ghpvc/?username=Justingwo&label=Profile%20Views&color=blue&style=flat-square" alt="Profile Views" />
   </p>
   
-  <!-- TROPHIES -->
-  <img src="https://github-profile-trophy.vercel.app/?username=Justingwo&theme=tokyonight&no-frame=true&column=7&margin-w=15&margin-h=15" />
-</div>
+ 
 
 <hr />
 
@@ -42,14 +40,14 @@
       </ul>
     </td>
     <td width="40%" align="center">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXF6em80bmZ6bmZueGZueGZueGZueGZueGZueGZueGZueCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKVUn7iM8FMEU24/giphy.gif" width="180" />
+      <img src="https://i.pinimg.com/originals/44/59/12/44591298d8a73cea5d43c9477126ea83.gif" width="180" />
     </td>
   </tr>
 </table>
 
 <h3>🛠 Tech Stack & Tools</h3>
 
-<div align="center">
+<div align="left">
   <!-- CMS & Platforms -->
   <b>Platforms:</b> 
   <img src="https://img.shields.io/badge/Blogger-FF5722?style=flat-square&logo=blogger&logoColor=white" />
@@ -86,14 +84,10 @@
   </table>
 </div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Justingwo&theme=tokyonight&hide_border=true" alt="Streak" />
-</div>
 
 <hr />
 
 <div align="center">
-  <i>"Content is King, but Distribution is Queen."</i>
-  <br />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vision-friendly-dark" />
   <p>Last Updated: 2026.1.21 🚀</p>
 </div>
