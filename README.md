@@ -61,6 +61,9 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Python-3376AB?style=flat-square&logo=python&logoColor=white" />
   <br />
+  <b>Tools:</b> 
+  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=Android-Studio&logoColor=black" />
+  <br/>
   <!-- Marketing/SEO -->
   <b>Marketing:</b> 
   <img src="https://img.shields.io/badge/Google_Analytics-E37400?style=flat-square&logo=google-analytics&logoColor=white" />
