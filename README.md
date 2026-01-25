@@ -63,6 +63,7 @@
   <br />
   <b>Tools:</b> 
   <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=Android-Studio&logoColor=black" />
+  <img src="https://img.shields.io/badge/VS%20Code-007acc?style=flat&logo=visualstudiocode&logoColor=white" />
   <br/>
   <!-- Marketing/SEO -->
   <b>Marketing:</b> 
