@@ -15,9 +15,6 @@
     <a href="https://bysk.app/profile/mengyaoguo.bsky.social">
       <img src="https://img.shields.io/badge/Bluesky-1185FE?style=for-the-badge&logo=Bluesky&logoColor=white" />
     </a>
-    <a href="https://www.buymeacoffee.com/justinkwok">
-      <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
-    </a>
     <br />
     <img src="https://komarev.com/ghpvc/?username=Justingwo&label=Profile%20Views&color=blue&style=flat-square" alt="Profile Views" />
   </p>
