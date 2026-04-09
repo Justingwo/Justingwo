@@ -70,26 +70,9 @@
 </div>
 
 <br />
-
-<h3>📊 GitHub Statistics</h3>
-
-<div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=Justingwo&show_icons=true&theme=tokyonight&hide_border=true" alt="Stats" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Justingwo&layout=compact&theme=tokyonight&hide_border=true" alt="Languages" />
-      </td>
-    </tr>
-  </table>
-</div>
-
-
 <hr />
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vision-friendly-dark" />
-  <p>Last Updated: 2026.1.21 🚀</p>
+  <p>Last Updated: 2026.4.9 🚀</p>
 </div>
