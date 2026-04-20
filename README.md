@@ -1,12 +1,10 @@
-<!-- HEADER: Typing Animation & Greeting -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+Justin+Kwok;Love+cat+%26+Blogger;Exploring+the+possibilities+of+Blogger;meow!+Flow+is+being+triggered" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+Justin+Kwok;Building+Retro+Win98+Spaces;Full-Stack+Web+Developer;Node.js+%26+SQLite+Enthusiast" alt="Typing SVG" />
 
   <h1>👋 Welcome to my Digital Space</h1>
 
-  <!-- SOCIAL BADGES -->
   <p>
-    <a href="https://justinkwo.blogspot.com/">
+    <a href="https://guomengyao.site">
       <img src="https://img.shields.io/badge/My_Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white" />
     </a>
     <a href="https://x.com/lessammore">
@@ -19,7 +17,7 @@
     <img src="https://komarev.com/ghpvc/?username=Justingwo&label=Profile%20Views&color=blue&style=flat-square" alt="Profile Views" />
   </p>
   
- 
+</div>
 
 <hr />
 
@@ -29,11 +27,11 @@
   <tr>
     <td width="60%" valign="top">
       <ul>
-        <li>✍️ <b>Content Strategist</b>: Focusing on in-depth customization of the Blogger theme, plus creative interactive widget design.</li>
-        <li>🔭 <b>Currently Working On</b>: I'm optimizing my Blogger to make it my one-stop multimedia interactive personal portal.</li>
-        <li>🌱 <b>Learning</b>: CSS styling and canvas/SVG drawing techniques will make interactive components look more realistic.</li>
-        <li>💬 <b>Ask me about</b>: Blogger, I'm a coding beginner and am gaining experience.</li>
-        <li>⚡ <b>Fun Fact</b>: I believe a good website is 50% content and 50% site speed!</li>
+        <li>💻 <b>Full-Stack Developer & Indie Hacker</b>: Transitioning from CMS platforms to building fully custom, highly secure web architectures from scratch.</li>
+        <li>🚀 <b>Currently Working On</b>: <i>North Window Misty Rain (北窗烟雨)</i> — a Win98 retro-style full-stack blog powered by Node.js, Express, and SQLite.</li>
+        <li>🌱 <b>Learning</b>: Database optimization (SQLite WAL mode), backend security (2FA, rate limiting), and MPA (Multi-Page Application) structures.</li>
+        <li>💬 <b>Ask me about</b>: Node.js routing, custom comment systems, Vanilla JS, and retro Win98 UI/UX design.</li>
+        <li>⚡ <b>Fun Fact</b>: I believe a good website is 50% content, 50% site speed, and a touch of nostalgic aesthetics!</li>
       </ul>
     </td>
     <td width="40%" align="center">
@@ -45,24 +43,21 @@
 <h3>🛠 Tech Stack & Tools</h3>
 
 <div align="left">
-  <!-- CMS & Platforms -->
-  <b>Platforms:</b> 
-  <img src="https://img.shields.io/badge/Blogger-FF5722?style=flat-square&logo=blogger&logoColor=white" />
-  <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  <b>Backend & Database:</b> 
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=flat-square" />
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white" />
   <br />
-  <!-- Development -->
   <b>Frontend:</b> 
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3376AB?style=flat-square&logo=python&logoColor=white" />
   <br />
-  <b>Tools:</b> 
-  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=Android-Studio&logoColor=black" />
-  <img src="https://img.shields.io/badge/VS%20Code-007acc?style=flat&logo=visualstudiocode&logoColor=white" />
+  <b>Tools & Scripting:</b> 
+  <img src="https://img.shields.io/badge/Python-3376AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007acc?style=flat-square&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=Cloudflare&logoColor=white" />
   <br/>
-  <!-- Marketing/SEO -->
   <b>Marketing:</b> 
   <img src="https://img.shields.io/badge/Google_Analytics-E37400?style=flat-square&logo=google-analytics&logoColor=white" />
   <img src="https://img.shields.io/badge/Search_Console-4285F4?style=flat-square&logo=google&logoColor=white" />
@@ -74,5 +69,5 @@
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vision-friendly-dark" />
-  <p>Last Updated: 2026.4.9 🚀</p>
+  <p>Last Updated: 2026.4.20 🚀</p>
 </div>
