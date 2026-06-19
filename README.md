@@ -1,4 +1,5 @@
 <div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=你好！我是郭孟尧;打造复古拟物风空间;开源和自托管让世界更美好;数字主权神圣不可侵犯" alt="Typing SVG" />
   <p>
     <a href="https://guomengyao.site">
       <img src="https://img.shields.io/badge/我的博客-FF5722?style=for-the-badge&logo=blogger&logoColor=white" />
